@@ -11,8 +11,7 @@ aiming to help individuals that want to be notified about  the upcoming importan
 
 ## docker project test after docker step
 ```bash
-    ~$ docker build -t nevermissu .
-    ~$ docker exec -it nevermissu_server sh
+     $ docker exec -it nevermissu_server sh
      $ cd app
      $ pytest
 ```
