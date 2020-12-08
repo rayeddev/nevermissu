@@ -1,5 +1,5 @@
 # Project NeverMissU
-## about : aiming to help individuals that want to be notified about  the upcoming important happy events for their loved ones and sending them gifts offers for all over the network of our partners based on preferences attached to each person he adds
+#about : aiming to help individuals that want to be notified about  the upcoming important happy events for their loved ones and sending them gifts offers for all over the network of our partners based on preferences attached to each person he adds
 
 
 # docker
